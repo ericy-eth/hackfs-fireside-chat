@@ -1,0 +1,12 @@
+.contact{
+    margin-bottom: 10%;
+    background: white;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.contact:hover{
+    background: grey;
+    font-color: white;
+    cursor: pointer;
+}

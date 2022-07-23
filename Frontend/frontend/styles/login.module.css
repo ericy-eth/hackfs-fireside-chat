@@ -1,0 +1,41 @@
+.login{
+background-color: orange;
+height: 100%;
+
+}
+
+.title{
+height: 100vh;
+padding: none;
+
+border: none;
+position: absolute;
+color: white;
+top: 25%;
+left: 33%;
+font-size: 5rem;
+}
+
+.button{
+    padding: 25px;
+    width: 20%;
+    height: 10%;
+    background: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+   
+
+}
+
+.button:hover{
+    background: grey;
+    color: white;
+}

@@ -1,0 +1,26 @@
+.sidebar{
+
+   display: flex;
+   align-items: center;
+    flex: 0.05;
+    height: 100vh;
+   background: rgba(253, 185, 25, 0.1) ;
+ 
+   flex-direction: column;
+}
+
+.load__dm{
+   margin-top: 20%;
+   margin-bottom: 20%;
+   padding: 15%;
+   border-radius: 2px;
+   background: white;
+   border: none;
+   cursor: pointer;
+
+}
+
+.load__dm:hover{
+background:grey;
+color: white;
+}
