@@ -44,12 +44,6 @@ const checkIfWalletIsConnected = async () => {
 
 export default function Login(){
 
-    // POAP API_KEY = Xsfmuj5ZQQiZ7Fho2cQ8xN9sa5f5OFRetAwv1qIYsYCq98tyw70KAcqryTpgDbKshRDoWMVBayz2auZ1NTvDB7krfMbabmDXUD55zx0qMhj8mJUCOG2Caei8tjLonpMP
-    // POAP Secret Code = 135983
-    // POAP ID = 56097
-    // Request code = 11216
-
-    // culture-form-firm
     const {user, setUser} = useContext(UserContext)
     const WEB3_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDE3N2Q4MjAwZkZiOTU5YzEzNTY2ODJhMDkzMjdlMzYyQ0I5Y2RmY2UiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NTgyMDYzNTE0MTQsIm5hbWUiOiJIYWNrRlMifQ.lb0dpVbIyf7XA9rZziCF8ojtWA8UD_mey5B1vOxHB3E"
 
